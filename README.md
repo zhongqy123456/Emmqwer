@@ -1,0 +1,1 @@
+使用Minecraft打开".mcaddon"文件
